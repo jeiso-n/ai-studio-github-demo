@@ -1,0 +1,6 @@
+{
+  "name": "My First AI Studio App",
+  "description": "A clean, modern React starter app featuring interactive state changes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
